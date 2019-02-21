@@ -1,5 +1,5 @@
 ---
-title: "Creating a MPI cluster in Microsoft Azure Cloud"
+title: "My trip to Beijing"
 date: 2018-06-06
 tags: [MPI, Big Data, Azure]
 header:
@@ -7,9 +7,7 @@ header:
 excerpt: "MPI, Big Data, Azure"
 ---
 
-This post is on creating a MPI cluster, especially for training and deploying deep learning based model.
-I will be using Ubuntu 16.04 as my default operating system to create a cluster and my 
-cloud infrastructure is Microsoft Azure (very similar for other cloud infrastructures such as Google and AWS).
+Human life is full of hindrance. Everyone struggles in their life to achieve their destiny. No one has easy life and so do I. I started the battle for study since I was in school. I always used to be pondering for the proactive life ahead. Then somewhere I felt the light of only education makes human life better. And I determined that I would go for my higher studies and master’s studies despite having paltry income in my family. In my early days of schooling, I never got the outstanding performance but I never fall beyond the average. Without any proper guidance and further support, I was able to perform better than the average, which proves that I am innate in learning.g
 
 Following steps are required to create **MPI cluster**, and MPI is purely C/C++ based implementation.
 
