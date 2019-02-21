@@ -4,7 +4,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 header:
-  image: "/images/microsoft.jpg"
+  image: "/images/news.jpeg"
 Mathjax: true
 ---
 

@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/work.jpeg"
+  image: "/images/about.jpeg"
 ---
 
 My working interest is in the field of data analysis and project planning. 
