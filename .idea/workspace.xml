@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81b68a1a-4c59-4d2b-870f-ac8ff4733cc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/shivalaxmi.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-06-06-Creating-MPI-Cluster.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-06-Creating-MPI-Cluster.md" afterDir="false" />
     </list>
@@ -41,12 +42,17 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-06-Creating-MPI-Cluster.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="110" lean-forward="true" selection-start-line="9" selection-end-line="11" selection-end-column="110" />
+              <first_editor relative-caret-position="134">
+                <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/1043928193.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -63,9 +69,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
+    <option name="x" value="-35" />
+    <option name="y" value="62" />
+    <option name="width" value="1082" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectView">
@@ -135,18 +141,18 @@
       <updated>1550682034138</updated>
       <workItem from="1550682037150" duration="1886000" />
       <workItem from="1550684427944" duration="97000" />
-      <workItem from="1550747905402" duration="448000" />
+      <workItem from="1550747905402" duration="1263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2431000" />
+    <option name="totallyTimeSpent" value="3246000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="777" extended-state="0" />
+    <frame x="-35" y="62" width="1082" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32422245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -169,9 +175,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/1043928193.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/about.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -188,6 +191,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/1043928193.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -201,8 +207,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-06-Creating-MPI-Cluster.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="110" lean-forward="true" selection-start-line="9" selection-end-line="11" selection-end-column="110" />
+          <first_editor relative-caret-position="134">
+            <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>

@@ -1,5 +1,5 @@
 ---
-title: "My trip to Beijing"
+title: "Profile"
 date: 2018-06-06
 tags: [MPI, Big Data, Azure]
 header:
@@ -7,7 +7,7 @@ header:
 excerpt: "MPI, Big Data, Azure"
 ---
 
-Human life is full of hindrance. Everyone struggles in their life to achieve their destiny. No one has easy life and so do I. I started the battle for study since I was in school. I always used to be pondering for the proactive life ahead. Then somewhere I felt the light of only education makes human life better. And I determined that I would go for my higher studies and master’s studies despite having paltry income in my family. In my early days of schooling, I never got the outstanding performance but I never fall beyond the average. Without any proper guidance and further support, I was able to perform better than the average, which proves that I am innate in learning.g
+I have a dire interest in learning and accepting the challenges in the growing market in the field of Management and Economics. I am always fond of exploring challenging things in my life. My management degree helps me to acumen the quality of being unique managerial personnel. Being a management student I am always encourage to work in Human resource management, sales promotion and payroll management. I always succeed in solving grievance in the work. I have started my working career since my teenage.g
 
 Following steps are required to create **MPI cluster**, and MPI is purely C/C++ based implementation.
 
